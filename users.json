@@ -1,0 +1,9 @@
+[
+  {"team": "A", "name": "Clement", "age": 25},
+  {"team": "A", "name": "Yasmine", "age": 30},
+  {"team": "A", "name": "John", "age": 25},
+  {"team": "A", "name": "Johnatan", "age": 45},
+  {"team": "B", "name": "Edouard", "age": 25},
+  {"team": "B", "name": "Quentin", "age": 25},
+  {"team": "B", "name": "John", "age": 25}
+]
